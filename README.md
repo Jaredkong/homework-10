@@ -16,7 +16,7 @@ node app.js
 
 The user will be prompted for an employee's name, id, email, etc. through the CLI.
 
-![Alt text](./Assets/screenshotCLI.PNG?raw=true "screenshot")
+![Alt text](./assets/screenshotCLI.PNG?raw=true "screenshot")
 
 The HTML page will be populated with cards with the following information:
 
@@ -27,4 +27,4 @@ The HTML page will be populated with cards with the following information:
 - Misc information
 
 
-![Alt text](./Assets/screenshotHTML.PNG?raw=true "screenshot") 
+![Alt text](./assets/screenshotHTML.PNG?raw=true "screenshot") 
